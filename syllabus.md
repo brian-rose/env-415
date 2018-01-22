@@ -5,9 +5,9 @@ permalink: /syllabus/
 ---
 # A ENV 415 / A ATM 415: Climate Laboratory
 
-## Syllabus, Spring 2016
+## Syllabus, Spring 2018
 
-### Course number: 10031 or 9927  (3 credits)
+### Course number: 10490 or 10489  (3 credits)
 
 ### Meets Tuesday, Thursday 10:15 - 11:35 AM in ES 328
 
@@ -15,18 +15,18 @@ permalink: /syllabus/
 
 - **Email**: <brose@albany.edu>
 - **Office**: ES 315
-- **Office hours**: Monday 1:30 - 2:30 PM, Wednesday 11:00 AM - 12:00 PM (or by appointment)
+- **Office hours**: Monday 4:00 - 5:00 PM, Wednesday 11:30 AM - 12:30 PM (or by appointment)
 - **Website**: <http://www.atmos.albany.edu/facstaff/brose>
 
-### Teaching assistant: Cameron Rencurrel
+### Teaching assistant: Christopher Cardinale
 
-- **Email**: <crencurrel@albany.edu>
+- **Email**: <ccardinale@albany.edu>
 - **Office**: ES 330
-- **Office hours**: Monday 9:30 - 11 AM, Thursday 3:00 - 4:30 PM (or by appointment)
+- **Office hours**: TBD
 
 ### Course website
 
-<http://www.atmos.albany.edu/facstaff/brose/classes/ENV415_Fall2016/>
+<http://www.atmos.albany.edu/facstaff/brose/classes/ENV415_Fall2018/>
 
 Includes the online version of this syllabus with hyperlinks, lecture and reading schedule and more.
 

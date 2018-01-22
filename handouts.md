@@ -5,7 +5,7 @@ permalink: /handouts/
 ---
 
 Check here throughout the term for extra assigned reading, links to figures shown in lecture, and other handouts.
-
+<!--
 ### Handouts
 
 - [Why are so many models and scenarios used to project future climate change?]({{ site.baseurl }}/notes/So_Many_Model_IPCC_WG1AR5.pdf) (FAQ 12.1 from the IPCC AR5 WG1 report)
@@ -34,4 +34,4 @@ Check here throughout the term for extra assigned reading, links to figures show
 - [Observed climatological ozone distribution]({{ site.baseurl }}/notes/ozone_1.9x2.5_L26_2000clim_c091112.nc)
 - [Topography file for the CESM simulations]({{ site.baseurl }}/notes/USGS-gtopo30_1.9x2.5_remap_c050602.nc)
 - [Output from the CESM pre-industrial control simulation]({{ site.baseurl }}/notes/som_1850_f19.cam.h0.clim_subset.nc) (this is just a small subset of the total list of output available from the online data server)
-- [Output from the CESM 2xCO2 simulation]({{ site.baseurl }}/notes/som_1850_2xCO2.cam.h0.clim_subset.nc) (this is just a small subset of the total list of output available from the online data server)
+- [Output from the CESM 2xCO2 simulation]({{ site.baseurl }}/notes/som_1850_2xCO2.cam.h0.clim_subset.nc) (this is just a small subset of the total list of output available from the online data server) -->
