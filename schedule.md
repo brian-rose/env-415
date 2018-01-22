@@ -10,13 +10,13 @@ This schedule shows the subject matter and assigned reading for every class day,
 [Climate Modelling Primer 4th ed.](http://www.climatemodellingprimer.net) unless otherwise stated.*
 
 
-| Date          | Lecture topic       | Reading  |   Homework   |  Notes        |
-| ------------- |:-------------------:| --------:|--------------|---------------|
-| 01/23/2018    |                     |          |              |               |
-| 01/25/2018    |                     |          |              |               |
-| 01/30/2018    |                     |          |              |               |
-| 02/01/2018    |                     |          |              |               |
-| 02/06/2018    |                     |          |              |               |
+| Date          | Lecture topic                                                       | Reading        |   Homework   |  Notes        |
+| ------------- |:-------------------------------------------------------------------:| --------------:|--------------|---------------|
+| 01/23/2018    | Introduction, syllabus and 'What is a climate model?'               |                |              |               |
+| 01/25/2018    |The planetary energy budget, and Fun with Python                     | 1.1, 1.2, 1.3  |              |               |
+| 01/30/2018    |The Zero-dimensional energy balance model and numerical time-stepping| 1.4, 1.5       |              |               |
+| 02/01/2018    |   Components of the climate system                                  | 2.1            |              |               |
+| 02/06/2018    |  A history and taxonomy of climate models                           | 2.2, 2.3       |              |               |
 | 02/08/2018    |                     |          |              |               |
 | 02/13/2018    |                     |          |              |               |
 | 02/15/2018    |                     |          |              |               |

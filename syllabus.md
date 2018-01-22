@@ -21,8 +21,8 @@ permalink: /syllabus/
 ### Teaching assistant: Christopher Cardinale
 
 - **Email**: <ccardinale@albany.edu>
-- **Office**: ES 330
-- **Office hours**: TBD
+- **Office**: ES 332
+- **Office hours**: Friday 3:00 - 4:00 PM (or by email)
 
 ### Course website
 
