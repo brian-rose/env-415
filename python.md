@@ -32,6 +32,23 @@ To log in to the JupyterHub: https://lore.atmos.albany.edu:8000
 
 You will need your regular UAlbany credentials.
 
+### Getting notebook files onto your JupyterHub space
+
+When you log in to the JupyterHub you will see a file browser showing the contents of your `home` directory on the departmental linux space. You should see a folder called `0notebooks` at the top of the list. Click on this. Inside `0notebooks` you should find a class folder called `ENV415`. This is where you should save notebook files for this course.
+
+Sometimes you will be creating your own notebook files. However for in-class work the instructor will often distribute pre-made notebooks with some sample code or instructions. These files will be available on the [handouts page](({{ site.baseurl }}/handouts)).
+
+To upload these files to your JupyterHub space:
+
+- Download and save the file locally on your laptop. *Make sure it is saved as a *.ipynb file*. Some browsers might try to change the file extension.
+- Log into the JupyterHub and navigate to your `ENV415` folder.
+- Click the `Upload` button on the JupyterHub page.
+- Browse for your locallly saved notebook file
+- The file will now appear at the top of the JupyterHub browser.
+- Click the blue `Upload` button to confirm.
+- The file is now saved on your JuptyerHub space.
+- Click on the notebook file to launch the notebook server and begin working.
+
 
 ## Python resources
 
