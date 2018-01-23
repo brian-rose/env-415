@@ -5,6 +5,11 @@ permalink: /handouts/
 ---
 
 Check here throughout the term for extra assigned reading, links to figures shown in lecture, and other handouts.
+
+### Jupyter notebooks
+
+- [Lecture 1: What is a climate model, and Fun with Python]({{ site.baseurl }}/notes/Introduction.ipynb)
+
 <!--
 ### Handouts
 
