@@ -1,1 +1,1 @@
-pandoc syllabus.md --latex-engine=xelatex -o syllabus.pdf -V geometry:margin=1.5in
+pandoc syllabus.md --latex-engine=xelatex -o syllabus.pdf -V geometry:margin=1in
