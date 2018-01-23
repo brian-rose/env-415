@@ -21,7 +21,17 @@ Python is a general-purpose high-level interpreted language that is now being us
 
 To get started, you need to install Python on your computer. We are going to use a program called **Anaconda**. Anaconda is a complete scientific Python environment including Python itself, a handy editor for reading and writing code, an interactive "shell" where you can run your code, and access to all the scientific Python libraries we will need.
 
-To download and install Anaconda, [go to this page](https://www.continuum.io/downloads). Installers and instructions are available for Windows, Mac and Linux. **IMPORTANT**: You will see the option to install either Python 2.7 or Python 3.5. **Choose Python 2.7**. *Some of the scientific libraries we will use are not yet compatible with Python 3.5*.
+To download and install Anaconda, [go to this page](https://www.continuum.io/downloads). Installers and instructions are available for Windows, Mac and Linux. **IMPORTANT**: You will see the option to install either Python 2.7 or Python 3.6. **Choose Python 3.6**. *This is the latest version*
+
+
+## Using the JupyterHub
+
+As an alternative to running everything on your own laptop, it will be possible to run Python code on a central server called a `JupyterHub`. This system allows you to log in through a web browser and run [Jupyter notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) on the server.
+
+To log in to the JupyterHub: https://lore.atmos.albany.edu:8000
+
+You will need your regular UAlbany credentials.
+
 
 ## Python resources
 
