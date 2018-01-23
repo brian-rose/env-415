@@ -40,7 +40,8 @@ Sometimes you will be creating your own notebook files. However for in-class wor
 
 To upload these files to your JupyterHub space:
 
-- Download and save the file locally on your laptop. *Make sure it is saved as a *.ipynb file*. Some browsers might try to change the file extension.
+- Right-click on the file to download and save the file locally on your laptop. *Make sure it is saved as a *.ipynb file*. Some browsers might try to change the file extension.
+- *I recommend using Firefox for this -- some other browsers are causing problems with unwanted extra file extensions.*
 - Log into the JupyterHub and navigate to your `ENV415` folder.
 - Click the `Upload` button on the JupyterHub page.
 - Browse for your locallly saved notebook file
@@ -48,6 +49,14 @@ To upload these files to your JupyterHub space:
 - Click the blue `Upload` button to confirm.
 - The file is now saved on your JuptyerHub space.
 - Click on the notebook file to launch the notebook server and begin working.
+
+###  Saving your work on the JupyterHub
+
+When you are finished working on a notebook file:
+
+- Choose `Save and Checkpoint` from the `File` menu on the JupyterHub. This will create a backup or checkpoint that you can revert back to if you mess something up later.
+- From the same menu, choose `Close and Halt`. This will kill the Python kernel and avoid clogging up the JupyterHub with stale processes.
+- Close your browser window and you're done.
 
 
 ## Python resources
