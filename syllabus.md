@@ -43,16 +43,20 @@ Grades will be determined based on the following breakdown:
 - Assignments: 40%
 - Quizzes: 5%
 - Midterm exam: 20%
-- Final exam: 25%
-- Participation: 10%
+- Final project: 20% (written report and code = 15%, oral presentation = 5%)
+- Participation: 15%
 
 
 ### Course requirements
 
 - Attendance and participation during in-class exercises
 - Completion of all assigned reading and regular homework assignments
-- Completiong of occasional in-class quizzes
-- Completion of midterm and final exams- A computer with internet access and a scientific Python environment- Recommended: a personal laptop computer with [Anaconda Python](https://www.continuum.io/downloads)
+- Completion of occasional in-class quizzes
+- Completion of midterm exam and final project
+- A computer with internet access and a scientific Python environment
+- Recommended: a personal laptop computer with [Anaconda Python](https://www.continuum.io/downloads)
+- Final project: electronic reports due Tuesday May 8 2018 (last day of classes).
+- Oral presentations will occur during the last two class period.
 
 ### Textbook (required)
 
@@ -70,7 +74,7 @@ Reading assignments from the *Primer* are clearly given on the [schedule page](h
 
 To encourage this, a pop quiz based on the assigned reading will *occasionally* be given in class. Dates will not be announced in advance. Quizzes will be given in the first 5 minutes of class.  
 
-#### Attendance and participation policy
+### Attendance and participation policy
 
 A significant portion of the course grade is given for class participation.
 You are expected to attend all lectures and participate fully in our in-class exercises and discussions.
@@ -84,6 +88,30 @@ UAlbany policies for Medical Excuses can be found here:
 Much of the course will consist of hands-on computing exercises, including both in-class exercises and homework. We will use the computer language Python for our exercises and calculations. We recommend software called [Anaconda Python](https://www.continuum.io/downloads), which in completely free and provides everything we need. See the class web page for installation instructions. The instructor will provided additional Python code files for each exercise as necessary. The goal of the exercises is to carry out scientifically meaningful calculations. We will therefore view our efforts in learning to work with Python code as a means to an end, not an end in itself. Grading of homework will be based more on scientific content and understanding than on programming skill. The TA is available for computing assistance.
 
 There will be regular homework assignments throughout the semester (about 8 total, subject to change). Homework will be due **at the beginning of class** on the stated due date, usually 1 week after it is handed out. LATE HOMEWORK will incur a penalty of 15% per day. Exception: each student is granted ONE freebee late day to be used on one assignment of their choice. For these purposes "days" are defined as 24 hour periods after the due date and time, which is 10:15 am. Late assignments will not be accepted after solutions have been discussed in class.
+
+
+### Final project
+
+There will be no final exam. Each student will complete a small independent project, submit a written report in `Jupyter` notebook format, and give a brief oral presentation to the class. You will choose your own topic (in consultation with the instructor and TA), exploring an issue in climate science and climate modeling. The project must include some original calculations described and carried out by you. These may be extensions of homework exercises or something entirely different than we covered in the course, subject to approval by the instructor.
+
+You will submit your written report electronically as a [Jupyter notebook](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). We will use these notebooks frequently throughout the course so all students will become well acquainted with them. The notebook is a document combining formatted text with executable computer code for self-describing calculations.
+
+Your final report will:
+
+- Describe the scientific problem you are studying
+- Provide necessary details for the methods you are using
+- Include all the code necessary to generate your results
+- Clearly communicate results as well-labeled graphs and tables as appropriate
+- Conclude with a brief summary of what you learned.
+- Be completely reproducible (i.e. the instructor must be able to run your notebook cleanly from start to finish).
+
+The instructor and TA will assist you meeting all these goals.
+
+The grade for the written papers will be determined by both scientific content and clarity of presentation. Notebooks are due Tuesday May 8 2018 (last day of classes) by 5 pm (by email). **Late papers will be subject to a grade penalty of 5/15 per day.**
+
+The purpose of the oral presentations is to share your work with your classmates and practice your presentation skills. Each student will give a brief presentation (about 8 minutes), followed by a brief class discussion. Grades for the oral presentation will be based primarily on clarity. Oral presentations will be scheduled for Thursday May 3 and Tuesday May 8 (the last two class days).
+
+You will work independently on your own project. However we strongly encourage you to discuss with your classmates and give each other feedback along the way. You will be asked to submit a one-paragraph project proposal at some point in the second half of the semester.
 
 
 ### Academic integrity
