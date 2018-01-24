@@ -8,8 +8,8 @@ Check here throughout the term for extra assigned reading, links to figures show
 
 ### Jupyter notebooks
 
-- [Lecture 1: What is a climate model, and Fun with Python]({{ site.baseurl }}/notes/L1_Introduction.ipynb)
-- [Lecture 2: Global energy balance, equilibrium temperature, and numerical timestepping]({{ site.baseurl }}/notes/L2_GlobalEBM.ipynb)
+- [Lecture 1: What is a climate model, and Fun with Python]({{ site.baseurl }}/notes/L01_Introduction.ipynb)
+- [Lecture 2: Global energy balance, equilibrium temperature, and numerical timestepping]({{ site.baseurl }}/notes/L02_GlobalEBM.ipynb)
 
 <!--
 ### Handouts
