@@ -13,7 +13,7 @@ To download the notebooks, right-click on the `*.ipynb file` link and make sure 
 To simply view the content, click on the `nbviewer` link. These are plain web pages without interactive Python, rendered by  https://nbviewer.jupyter.org
 
 - Lecture 1: What is a climate model, and Fun with Python [`*.ipynb file`]({{ site.url }}/notes/L01_Introduction.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L01_Introduction.ipynb)
-- Lecture 2: Global energy balance, equilibrium temperature, and numerical timestepping [`*.ipynb file`]({{ site.url }}/notes/L02_GLobalEBM.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L02_GLobalEBM.ipynb)
+- Lecture 2: Global energy balance, equilibrium temperature, and numerical timestepping [`*.ipynb file`]({{ site.url }}/notes/L02_GlobalEBM.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L02_GlobalEBM.ipynb)
 
 <!--
 ### Handouts
