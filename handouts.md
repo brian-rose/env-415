@@ -14,6 +14,7 @@ To simply view the content, click on the `nbviewer` link. These are plain web pa
 
 - Lecture 1: What is a climate model, and Fun with Python [`*.ipynb file`]({{ site.url }}/notes/L01_Introduction.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L01_Introduction.ipynb)
 - Lecture 2: Global energy balance, equilibrium temperature, and numerical timestepping [`*.ipynb file`]({{ site.url }}/notes/L02_GlobalEBM.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L02_GlobalEBM.ipynb)
+- Lecture 3: The climate system and climate models [`*.ipynb file`]({{ site.url }}/notes/L03_ClimateSystem.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L03_ClimateSystem.ipynb)
 
 <!--
 ### Handouts
