@@ -11,16 +11,18 @@ This schedule shows the subject matter and assigned reading for every class day,
 
 Readings must be completed **before** class on the day indicated.
 
-| Date          | Lecture topic                                                       | Reading        |   Homework   |  Notes        |
-| ------------- |:-------------------------------------------------------------------:| --------------:|--------------|---------------|
-| 01/23/2018    | Introduction, syllabus and 'What is a climate model?'               |                |              |               |
-| 01/25/2018    |Planetary energy budget and the zero-dimensional energy balance model| 1.1, 1.2, 1.3  |              |               |
-| 01/30/2018    | Numerical time-stepping the EBM, and plotting with matplotlib       | 1.4, 1.5       |              |               |
-| 02/01/2018    |   Components of the climate system                                  | 2.1            |              |               |
-| 02/06/2018    |  A history and taxonomy of climate models                           | 2.2, 2.3       |              |               |
-| 02/08/2018    | Feedback and climate sensitivity                                    | 2.4            |              |               |
-| 02/13/2018    | Exercises on feedback and climate sensitivity                       |    2.5, 2.6    |              |               |
-| 02/15/2018    | Solar radiation                                                     |   3.1, 3.2     |              |               |
+*The reading schedule has been delayed to accommodate students who didn't get a copy of the textbook until the second week of class.*
+
+| Date          | Lecture topic                                                       |   Reading      |   Homework        |  Notes        |
+| ------------- |:-------------------------------------------------------------------:| --------------:|-------------------|---------------|
+| 01/23/2018    | Introduction, syllabus and 'What is a climate model?'               |                |                   |               |
+| 01/25/2018    |Planetary energy budget and the zero-dimensional energy balance model|                |                   |               |
+| 01/30/2018    | Numerical time-stepping the EBM, and plotting with matplotlib       |                | Assignment 1 out  |               |
+| 02/01/2018    | The climate system and climate models                               | 1.1 - 1.5      |                   |               |
+| 02/06/2018    |  Single-column modeling with `climlab`                              | 2.1, 2.2       |                   |               |
+| 02/08/2018    | Feedback and climate sensitivity                                    | 2.3, 2.4       | Assignment 1 due  |               |
+| 02/13/2018    | Exercises on feedback and climate sensitivity                       | 2.5, 2.6       |                   |               |
+| 02/15/2018    | Solar radiation                                                     |  3.1, 3.2      |                   |               |
 | 02/20/2018    | Orbital variations, insolation and the ice ages                     |  3.3           |              |               |
 | 02/22/2018    | Exercises on orbital calculations                                   |  3.4           |              |               |
 | 02/27/2018    |                                                                     |                |              |               |
