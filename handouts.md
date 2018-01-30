@@ -16,6 +16,14 @@ To simply view the content, click on the `nbviewer` link. These are plain web pa
 - Lecture 2: Global energy balance, equilibrium temperature, and numerical timestepping [`*.ipynb file`]({{ site.url }}/notes/L02_GlobalEBM.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L02_GlobalEBM.ipynb)
 - Lecture 3: The climate system and climate models [`*.ipynb file`]({{ site.url }}/notes/L03_ClimateSystem.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L03_ClimateSystem.ipynb)
 
+
+### Readings
+
+*These links are password-protected. Instructions will be given in class or by email.*
+
+- [The Climate Modelling Primer (4th edition), Chapter 1]({{ site.url }}/readings/Primer_4e_Ch1.pdf)
+(89.5 MB pdf file)
+
 <!--
 ### Handouts
 
