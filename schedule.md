@@ -22,9 +22,9 @@ Readings must be completed **before** class on the day indicated.
 | 02/06/2018    |  Single-column modeling with `climlab`                              | 2.1, 2.2       |                   |               |
 | 02/08/2018    | Feedback and climate sensitivity                                    | 2.3, 2.4       | Assignment 1 due  |               |
 | 02/13/2018    | Exercises on feedback and climate sensitivity                       | 2.5, 2.6       |                   |               |
-| 02/15/2018    | Solar radiation                                                     |  3.1, 3.2      |                   |               |
-| 02/20/2018    | Orbital variations, insolation and the ice ages                     |  3.3           |              |               |
-| 02/22/2018    | Exercises on orbital calculations                                   |  3.4           |              |               |
+| 02/15/2018    | Solar radiation                                                     |  3.1, 3.2      | Assignment 2 out  |               |
+| 02/20/2018    | Orbital variations, insolation and the ice ages                     |  3.3           |                   |               |
+| 02/22/2018    | Exercises on orbital calculations                                   |  3.4           | Assignment 2 due  |               |
 | 02/27/2018    |                                                                     |                |              |               |
 | 03/01/2018    |                                                                     |                |              |               |
 | 03/06/2018    |          **Midterm exam**                                           |                |              |               |
