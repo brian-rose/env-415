@@ -2,7 +2,7 @@ import numpy as np
 from matplotlib import pyplot, animation
 import xarray as xr
 import climlab
-from climlab.process.time_dependent_process import couple
+
 
 def get_tendencies(model):
     '''Pack all the subprocess tendencies into xarray.Datasets
@@ -18,16 +18,7 @@ def get_tendencies(model):
         tend *= climlab.constants.seconds_per_day
     return tendencies_atm, tendencies_sfc
 
-# plot_names = {'top': 'Total',
-#               'LW': 'LW radiation',
-#               'SW': 'SW radiation',
-#               'Radiation': 'Radiation (net)',
-#               'Convection': 'Convection',
-#              }
-#
-#
 yticks = np.array([1000., 750., 500., 250., 100., 50., 20., 10., 5.])
-
 
 #  We will plot temperatures with respect to log(pressure) to get a height-like coordinate
 def zstar(lev):
@@ -60,13 +51,15 @@ def init_figure():
     ax = axes[1]
     color_cycle=['g','b','r','y','k','c','m','orange']
     tendencies_atm, tendencies_sfc = get_tendencies(model)
+    num_tendencies = 0
     for i, name in enumerate(tendencies_atm.data_vars):
         lines.append(ax.plot(tendencies_atm[name], zstar(model.lev), label=name, color=color_cycle[i])[0])
+        num_tendencies += 1
     for i, name in enumerate(tendencies_sfc.data_vars):
         lines.append(ax.plot(tendencies_sfc[name], 0, 'o', markersize=8, color=color_cycle[i])[0])
     ax.legend(loc='center right');
     lines.append(axes[0].text(250, zstar(100.), 'Day {}'.format(int(model.time['days_elapsed']))))
-    return lines
+    return lines, num_tendencies
 
 def update_frame():
     lines[0].set_xdata(np.array(model.Tatm))
@@ -76,7 +69,7 @@ def update_frame():
     for i, name in enumerate(tendencies_atm.data_vars):
         lines[3+i].set_xdata(tendencies_atm[name])
     for i, name in enumerate(tendencies_sfc.data_vars):
-        lines[3+num_prognostic+i].set_xdata(tendencies_sfc[name])
+        lines[3+num_tendencies+i].set_xdata(tendencies_sfc[name])
 
     lines[-1].set_text('Day {}'.format(int(model.time['days_elapsed'])))
 
@@ -85,7 +78,6 @@ def advance_simulation(step):
         model.step_forward()
     update_frame()
     return lines
-
 
 def build_rcm(num_lev=30, water_depth=2.5):
     # Temperatures in a single column
@@ -104,7 +96,7 @@ def build_rcm(num_lev=30, water_depth=2.5):
     conv = climlab.convection.EmanuelConvection(name='Convection',
                                   state=state,
                                   timestep=short_timestep,
-                                  ALPHA=0.4,)
+                                  ALPHA=0.1,)
     #  Surface heat flux processes
     shf = climlab.surface.SensibleHeatFlux(name='SHF',
                                   state=state, Cd=0.5E-3, U=10.,
@@ -113,8 +105,8 @@ def build_rcm(num_lev=30, water_depth=2.5):
                                   state=state, Cd=0.5E-3, U=10.,
                                   timestep=short_timestep)
     #  Couple all the submodels together
-    turb = couple([shf,lhf], name='Turbulent')
-    model = couple([rad, conv, turb], name='RadiativeConvectiveModel')
+    turb = climlab.couple([shf,lhf], name='Turbulent')
+    model = climlab.couple([rad, conv, turb], name='RadiativeConvectiveModel')
     for proc in [rad, conv, shf, lhf]:
         model.add_subprocess(proc.name, proc)
     return model
@@ -128,7 +120,7 @@ for name, proc, top_proc in climlab.utils.walk.walk_processes(model, topdown=Fal
         num_prognostic += 1
 
 fig, axes = setup_figure()
-lines = init_figure()
+lines, num_tendencies = init_figure()
 steps_per_frame = 48
 model_run = animation.FuncAnimation(fig, advance_simulation, blit=True)
 pyplot.show()
