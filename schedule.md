@@ -19,14 +19,14 @@ Readings must be completed **before** class on the day indicated.
 | 01/25/2018    |Planetary energy budget and the zero-dimensional energy balance model|                |                   |               |
 | 01/30/2018    | Numerical time-stepping the EBM, and plotting with matplotlib       |                | Assignment 1 out  |               |
 | 02/01/2018    | The climate system and climate models                               | 1.1 - 1.5      |                   |               |
-| 02/06/2018    |  Single-column modeling with `climlab`                              | 2.1, 2.2       |                   |               |
-| 02/08/2018    | Feedback and climate sensitivity                                    | 2.3, 2.4       | Assignment 1 due  |               |
-| 02/13/2018    | Exercises on feedback and climate sensitivity                       | 2.5, 2.6       |                   |               |
-| 02/15/2018    | Solar radiation                                                     |  3.1, 3.2      | Assignment 2 out  |               |
-| 02/20/2018    | Orbital variations, insolation and the ice ages                     |  3.3           |                   |               |
-| 02/22/2018    | Exercises on orbital calculations                                   |  3.4           | Assignment 2 due  |               |
-| 02/27/2018    |                                                                     |                |              |               |
-| 03/01/2018    |                                                                     |                |              |               |
+| 02/06/2018    | The climate system and climate models, continued                    | 2.1, 2.2       |                   |               |
+| 02/08/2018    | Introducing the GCM                                                 | 2.3, 2.4       | Assignment 1 due  |               |
+| 02/13/2018    | The xarray package and working with the GCM data                    | 2.5, 2.6       |                   |               |
+| 02/15/2018    | Exercises with the slab ocean GCM output                            |  3.1, 3.2      | Assignment 2 out  |               |
+| 02/20/2018    | Building simple climate models with `climlab`                       |  3.3           |                   |               |
+| 02/22/2018    | Single-column models: radiative equilibrium                         |  3.4           | Assignment 2 due  |               |
+| 02/27/2018    | Single-column models: radiative-convective equilibrium              |                |                   |               |
+| 03/01/2018    | Feedback and climate sensitivity                                    |                |                   |               |
 | 03/06/2018    |          **Midterm exam**                                           |                |              |               |
 | 03/08/2018    |                                                                     |                |              |               |
 | 03/13/2018    |  **no class**                                                       |          |              | Spring break  |
