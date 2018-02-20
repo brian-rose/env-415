@@ -18,6 +18,7 @@ To simply view the content, click on the `nbviewer` link. These are plain web pa
 - Lecture 4: Introducing the Community Earth System Model (CESM) [`*.ipynb file`]({{ site.url }}/notes/L04_IntroducingCESM.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L04_IntroducingCESM.ipynb)
 - Lecture 4 with worked out solutions [`*.ipynb file`]({{ site.url }}/notes/L04_IntroducingCESM_completed.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L04_IntroducingCESM_completed.ipynb)
 - Lecture 5: Building simple climate models using `climlab` [`*.ipynb file`]({{ site.url }}/notes/L05_climlab.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L05_climlab.ipynb)
+- Lecture 6: Brief review of radiation [`*.ipynb file`]({{ site.url }}/notes/L06_Radiation.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L06_Radiation.ipynb)
 
 ### Readings
 
