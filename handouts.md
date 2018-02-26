@@ -19,7 +19,9 @@ To simply view the content, click on the `nbviewer` link. These are plain web pa
 - Lecture 4 with worked out solutions [`*.ipynb file`]({{ site.url }}/notes/L04_IntroducingCESM_completed.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L04_IntroducingCESM_completed.ipynb)
 - Lecture 5: Building simple climate models using `climlab` [`*.ipynb file`]({{ site.url }}/notes/L05_climlab.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L05_climlab.ipynb)
 - Lecture 6: Brief review of radiation [`*.ipynb file`]({{ site.url }}/notes/L06_Radiation.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L06_Radiation.ipynb)
-- Lecture 7: Radiative Equilibrium [`*.ipynb file`]({{ site.url }}/notes/L07_RadiativeEquilibrium.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L07_RadiativeEquilibrium.ipynb)
+- Lecture 7: Elementary greenhouse models [`*.ipynb file`]({{ site.url }}/notes/L07_ElementaryGreenhouse.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L07_ElementaryGreenhouse.ipynb)
+- Lecture 8: Radiative Equilibrium [`*.ipynb file`]({{ site.url }}/notes/L08_RadiativeEquilibrium.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L08_RadiativeEquilibrium.ipynb)
+
 
 ### Readings
 
