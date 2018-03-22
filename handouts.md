@@ -21,7 +21,7 @@ To simply view the content, click on the `nbviewer` link. These are plain web pa
 - Lecture 6: Brief review of radiation [`*.ipynb file`]({{ site.url }}/notes/L06_Radiation.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L06_Radiation.ipynb)
 - Lecture 7: Elementary greenhouse models [`*.ipynb file`]({{ site.url }}/notes/L07_ElementaryGreenhouse.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L07_ElementaryGreenhouse.ipynb)
 - Lecture 8: Radiative Equilibrium [`*.ipynb file`]({{ site.url }}/notes/L08_RadiativeEquilibrium.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L08_RadiativeEquilibrium.ipynb)
-- Lecture 9: Radiative-Convective Equilibrium [`*.ipynb file`]({{ site.url }}/notes/L09_RadiativeConvectiveEquilibrium.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L08_RadiativeConvectiveEquilibrium.ipynb)
+- Lecture 9: Radiative-Convective Equilibrium [`*.ipynb file`]({{ site.url }}/notes/L09_RadiativeConvectiveEquilibrium.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L09_RadiativeConvectiveEquilibrium.ipynb)
 
 
 ### Readings
