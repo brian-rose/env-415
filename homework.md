@@ -11,6 +11,7 @@ See [syllabus]({{ site.baseurl }}/syllabus) for homework policies.
 
 - Assigment 1 [`*.ipynb file`]({{ site.url }}/notes/Assignment1.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/Assignment1.ipynb), out 1/30/2018, due 2/8/2018
 - Assigment 2 [`*.ipynb file`]({{ site.url }}/notes/Assignment2.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/Assignment2.ipynb), out 2/15/2018, due 2/22/2018
+- Assigment 3 [`*.ipynb file`]({{ site.url }}/notes/Assignment3.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/Assignment3.ipynb), out 3/27/2018, due 4/3/2018
 
 ## Partially worked out solutions
 

@@ -33,9 +33,9 @@ Readings must be completed **before** class on the day indicated.
 | 03/15/2018    |  **no class**                                                       |                |                   | Spring break  |
 | 03/20/2018    | Radiative forcing, feedback and climate sensitivity                 | 4.1 - 4.3      |                   |               |
 | 03/22/2018    | Clouds and climate                                                  | 4.4            |                   |               |
-| 03/27/2018    | Transient warming, ocean heat uptake and committed warming          | 4.5            |                   |               |
+| 03/27/2018    | Transient warming, ocean heat uptake and committed warming          | 4.5            | Assignment 3 out  |               |
 | 03/29/2018    | Solar radiation and seasons                                         | 4.6            |                   |               |
-| 04/03/2018    | Orbital variations, insolation and the ice ages                     | 4.7, 4.8       |                   |               |
+| 04/03/2018    | Orbital variations, insolation and the ice ages                     | 4.7, 4.8       |  Assignment 3 due |               |
 | 04/05/2018    | Exercises on orbital calculations                                   | 5.1, 5.2       |                   |               |
 | 04/10/2018    | Poleward heat transport: observations and parameterizations         | 5.3            |                   |               |
 | 04/12/2018    | The 1D diffusive Energy Balance Model                               | 5.4.1-3        |                   |               |
