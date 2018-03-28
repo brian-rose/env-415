@@ -23,6 +23,7 @@ To simply view the content, click on the `nbviewer` link. These are plain web pa
 - Lecture 8: Radiative Equilibrium [`*.ipynb file`]({{ site.url }}/notes/L08_RadiativeEquilibrium.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L08_RadiativeEquilibrium.ipynb)
 - Lecture 9: Radiative-Convective Equilibrium [`*.ipynb file`]({{ site.url }}/notes/L09_RadiativeConvectiveEquilibrium.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L09_RadiativeConvectiveEquilibrium.ipynb)
 - Lecture 10: Climate sensitivity and feedback [`*.ipynb file`]({{ site.url }}/notes/L10_Sensitivity_Feedback.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L10_Sensitivity_Feedback.ipynb)
+- Lecture 11: Clouds and Climate [`*.ipynb file`]({{ site.url }}/notes/L11_Clouds.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L11_Clouds.ipynb)
 
 
 ### Readings
