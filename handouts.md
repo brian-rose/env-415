@@ -24,6 +24,7 @@ To simply view the content, click on the `nbviewer` link. These are plain web pa
 - Lecture 9: Radiative-Convective Equilibrium [`*.ipynb file`]({{ site.url }}/notes/L09_RadiativeConvectiveEquilibrium.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L09_RadiativeConvectiveEquilibrium.ipynb)
 - Lecture 10: Climate sensitivity and feedback [`*.ipynb file`]({{ site.url }}/notes/L10_Sensitivity_Feedback.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L10_Sensitivity_Feedback.ipynb)
 - Lecture 11: Clouds and Climate [`*.ipynb file`]({{ site.url }}/notes/L11_Clouds.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L11_Clouds.ipynb)
+- Lecture 12: Transient global warming [`*.ipynb file`]({{ site.url }}/notes/L12_TransientWarming.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L12_TransientWarming.ipynb)
 
 
 ### Readings
