@@ -27,6 +27,7 @@ To simply view the content, click on the `nbviewer` link. These are plain web pa
 - Lecture 12: Transient global warming [`*.ipynb file`]({{ site.url }}/notes/L12_TransientWarming.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L12_TransientWarming.ipynb)
 - Lecture 13: Insolation [`*.ipynb file`]({{ site.url }}/notes/L13_Insolation.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L13_Insolation.ipynb)
 - Lecture 14: Orbital variations and the Ice Ages [`*.ipynb file`]({{ site.url }}/notes/L14_OrbitalVariations.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L14_OrbitalVariations.ipynb)
+- Lecture 15: Heat Transport [`*.ipynb file`]({{ site.url }}/notes/L15_HeatTransport.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L15_HeatTransport.ipynb)
 
 
 ### Readings
