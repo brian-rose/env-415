@@ -28,6 +28,7 @@ To simply view the content, click on the `nbviewer` link. These are plain web pa
 - Lecture 13: Insolation [`*.ipynb file`]({{ site.url }}/notes/L13_Insolation.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L13_Insolation.ipynb)
 - Lecture 14: Orbital variations and the Ice Ages [`*.ipynb file`]({{ site.url }}/notes/L14_OrbitalVariations.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L14_OrbitalVariations.ipynb)
 - Lecture 15: Heat Transport [`*.ipynb file`]({{ site.url }}/notes/L15_HeatTransport.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L15_HeatTransport.ipynb)
+- Lecture 16: The One-Dimensional Energy Balance Model [`*.ipynb file`]({{ site.url }}/notes/L16_EBM.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L16_EBM.ipynb)
 
 
 ### Readings
