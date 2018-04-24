@@ -29,7 +29,7 @@ To simply view the content, click on the `nbviewer` link. These are plain web pa
 - Lecture 14: Orbital variations and the Ice Ages [`*.ipynb file`]({{ site.url }}/notes/L14_OrbitalVariations.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L14_OrbitalVariations.ipynb)
 - Lecture 15: Heat Transport [`*.ipynb file`]({{ site.url }}/notes/L15_HeatTransport.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L15_HeatTransport.ipynb)
 - Lecture 16: The One-Dimensional Energy Balance Model [`*.ipynb file`]({{ site.url }}/notes/L16_EBM.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L16_EBM.ipynb)
-- Lecture 17:  Ice-albedo feedback and Snowball Earth in the EBM [`*.ipynb file`]({{ site.url }}/notes/L178_albedo_feedback.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L17_albedo_feedback.ipynb)
+- Lecture 17:  Ice-albedo feedback and Snowball Earth in the EBM [`*.ipynb file`]({{ site.url }}/notes/L17_albedo_feedback.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L17_albedo_feedback.ipynb)
 
 
 ### Readings
