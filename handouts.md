@@ -32,6 +32,16 @@ To simply view the content, click on the `nbviewer` link. These are plain web pa
 - Lecture 17:  Ice-albedo feedback and Snowball Earth in the EBM [`*.ipynb file`]({{ site.url }}/notes/L17_albedo_feedback.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L17_albedo_feedback.ipynb)
 
 
+### Handouts
+
+- [Why are so many models and scenarios used to project future climate change?]({{ site.baseurl }}/notes/So_Many_Model_IPCC_WG1AR5.pdf) (FAQ 12.1 from the IPCC AR5 WG1 report)
+- [What would happen to future climate if we stopped emissions today?]({{ site.baseurl }}/notes/Stopped_Emissions_Today_IPCC_WG1AR5.pdf) (FAQ 12.3 from the IPCC AR5 WG1 report)
+
+### Powerpoint slides
+
+- [Powerpoint slides on IPCC climate projections]({{ site.baseurl }}/notes/IPCC_AR5_slides.pptx)
+
+
 ### Readings
 
 *These links are password-protected. Instructions will be given in class or by email.*
