@@ -2,15 +2,15 @@
 title: "A ENV 415 / A ATM 415: Climate Laboratory"
 email: brose@albany.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Class website for A ENV 415 / A ATM 415, Spring 2018
-baseurl: "/facstaff/brose/classes/ENV415_Spring2018" # the subpath of your site, e.g. /blog
-url: "http://www.atmos.albany.edu/facstaff/brose/classes/ENV415_Spring2018" # the base hostname & protocol for your site
+  Class website for A ENV 415 / A ATM 415, Spring 2020
+baseurl: "/facstaff/brose/classes/ENV415_Spring2020" # the subpath of your site, e.g. /blog
+url: "http://www.atmos.albany.edu/facstaff/brose/classes/ENV415_Spring2020" # the base hostname & protocol for your site
 twitter_username: BrianEJRose
 github_username: brian-rose
-nbviewer: "https://nbviewer.jupyter.org/url/www.atmos.albany.edu/facstaff/brose/classes/ENV415_Spring2018"  # URL for nbviewer
+nbviewer: "https://nbviewer.jupyter.org/url/www.atmos.albany.edu/facstaff/brose/classes/ENV415_Spring2020"  # URL for nbviewer
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
 
 redcarpet:

@@ -6,6 +6,7 @@ permalink: /handouts/
 
 Check here throughout the term for extra assigned reading, links to figures shown in lecture, and other handouts.
 
+<!--
 ### Jupyter notebooks
 
 To download the notebooks, right-click on the `*.ipynb file` link and make sure to Save As `*.ipynb` with no extra file extensions.
@@ -31,23 +32,30 @@ To simply view the content, click on the `nbviewer` link. These are plain web pa
 - Lecture 16: The One-Dimensional Energy Balance Model [`*.ipynb file`]({{ site.url }}/notes/L16_EBM.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L16_EBM.ipynb)
 - Lecture 17:  Ice-albedo feedback and Snowball Earth in the EBM [`*.ipynb file`]({{ site.url }}/notes/L17_albedo_feedback.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/L17_albedo_feedback.ipynb)
 
+-->
 
+<!--
 ### Handouts
 
 - [Why are so many models and scenarios used to project future climate change?]({{ site.baseurl }}/notes/So_Many_Model_IPCC_WG1AR5.pdf) (FAQ 12.1 from the IPCC AR5 WG1 report)
 - [What would happen to future climate if we stopped emissions today?]({{ site.baseurl }}/notes/Stopped_Emissions_Today_IPCC_WG1AR5.pdf) (FAQ 12.3 from the IPCC AR5 WG1 report)
+-->
 
+<!--
 ### Powerpoint slides
 
+
 - [Powerpoint slides on IPCC climate projections]({{ site.baseurl }}/notes/IPCC_AR5_slides.pptx)
+-->
 
-
+<!--
 ### Readings
 
 *These links are password-protected. Instructions will be given in class or by email.*
 
 - [The Climate Modelling Primer (4th edition), Chapter 1]({{ site.url }}/readings/Primer_4e_Ch1.pdf)
 (89.5 MB pdf file)
+-->
 
 <!--
 ### Handouts
@@ -78,4 +86,5 @@ To simply view the content, click on the `nbviewer` link. These are plain web pa
 - [Observed climatological ozone distribution]({{ site.baseurl }}/notes/ozone_1.9x2.5_L26_2000clim_c091112.nc)
 - [Topography file for the CESM simulations]({{ site.baseurl }}/notes/USGS-gtopo30_1.9x2.5_remap_c050602.nc)
 - [Output from the CESM pre-industrial control simulation]({{ site.baseurl }}/notes/som_1850_f19.cam.h0.clim_subset.nc) (this is just a small subset of the total list of output available from the online data server)
-- [Output from the CESM 2xCO2 simulation]({{ site.baseurl }}/notes/som_1850_2xCO2.cam.h0.clim_subset.nc) (this is just a small subset of the total list of output available from the online data server) -->
+- [Output from the CESM 2xCO2 simulation]({{ site.baseurl }}/notes/som_1850_2xCO2.cam.h0.clim_subset.nc) (this is just a small subset of the total list of output available from the online data server)
+-->

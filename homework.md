@@ -7,6 +7,7 @@ permalink: /homework/
 Homework assignments will be posted here throughout the term.
 See [syllabus]({{ site.baseurl }}/syllabus) for homework policies.
 
+<!--
 ## Blank assignments
 
 - Assigment 1 [`*.ipynb file`]({{ site.url }}/notes/Assignment1.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/Assignment1.ipynb), out 1/30/2018, due 2/8/2018
@@ -16,7 +17,7 @@ See [syllabus]({{ site.baseurl }}/syllabus) for homework policies.
 ## Partially worked out solutions
 
 - Assignment 1 [`*.ipynb file`]({{ site.url }}/notes/Assignment1 partial solution.ipynb) [`nbviewer`]({{site.nbviewer}}/notes/Assignment1 partial solution.ipynb)
-
+-->
 
 <!-- - [Assignment 1]({{ site.baseurl }}/assignments/Assignment01.pdf), out 1/28/2016, due 2/9/2016
 - [Assignment 2]({{ site.baseurl }}/assignments/Assignment02.pdf), out 2/11/2016, due 2/18/2016

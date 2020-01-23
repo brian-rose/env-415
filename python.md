@@ -3,6 +3,9 @@ layout: page
 title: Python
 permalink: /python/
 ---
+
+***Some of this information is out of date! Stay tuned for more useful instructions for 2020.***
+
 ## About Python
 
 In this course we will be working extensively with a computer programming language called Python.
@@ -21,7 +24,7 @@ Python is a general-purpose high-level interpreted language that is now being us
 
 To get started, you need to install Python on your computer. We are going to use a program called **Anaconda**. Anaconda is a complete scientific Python environment including Python itself, a handy editor for reading and writing code, an interactive "shell" where you can run your code, and access to all the scientific Python libraries we will need.
 
-To download and install Anaconda, [go to this page](https://www.continuum.io/downloads). Installers and instructions are available for Windows, Mac and Linux. **IMPORTANT**: You will see the option to install either Python 2.7 or Python 3.6. **Choose Python 3.6**. *This is the latest version*
+To download and install Anaconda, [go to this page](https://www.anaconda.com/distribution/). Installers and instructions are available for Windows, Mac and Linux. **IMPORTANT**: You will see the option to install either Python 2.7 or Python 3.7. **Choose Python 3.7**. *We will not be working with Python 2*
 
 
 ## Using the JupyterHub
