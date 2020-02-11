@@ -8,6 +8,8 @@ Homework assignments will be posted here throughout the term.
 See [syllabus]({{ site.baseurl }}/syllabus) for homework policies.
 
 - Assignment 1: [Climate change in the zero-dimensional EBM](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/assignment-zero-dim-ebm.html), out 1/30/2020, due 2/6/2020
+- Assignment 2: [Exploring the CESM pre-industrial control simulation](https://brian-rose.github.io/ClimateLaboratoryBook/courseware/assignment-cesm-control.html), out 2/11/2020, due 2/18/2020
+
 
 <!--
 ## Blank assignments
