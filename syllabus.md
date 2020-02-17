@@ -22,7 +22,7 @@ permalink: /syllabus/
 
 - **Email**: <yjiang6@albany.edu>
 - **Office**: ES 330
-- **Office hours**: TBD
+- **Office hours**: Tuesday 3:30 - 5 PM, Friday 10:30 am - 12 pm (or by appointment)
 
 ### Course website:
 <http://www.atmos.albany.edu/facstaff/brose/classes/ENV415_Spring2020/>
